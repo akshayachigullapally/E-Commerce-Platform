@@ -14,3 +14,5 @@ This is a simple e-commerce platform where users can search for items, add them 
 - JavaScript (for dynamic interactions)
 - jQuery (for simple DOM manipulations)
 
+- 
+
